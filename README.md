@@ -4,11 +4,11 @@ Na música, temos várias escalas diferentes, que se encaixam em músicas difere
 
 O que o programa faz, é construir a escala, seja ela:
 
-Maior
-Menor
-Pentatônica
-Blues (menor)
-Blues (maior)
+Maior,
+Menor,
+Pentatônica,
+Blues (menor),
+Blues (maior),
 
 O processo vai ser:
 
