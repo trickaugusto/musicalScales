@@ -15,8 +15,3 @@ O processo vai ser:
 O usuário escolhe o TOM da música
     - O sistema constrói, baseado no tom, as escalas e
 O sistema imprime todas as escalas acima
-
-Desafios:
-
-Como construir a escala?
-Não pode ter escala pronta, preciso fazer dinamicamente com TOM e SEMITOM
