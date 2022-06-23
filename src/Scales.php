@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Entity;
+namespace Musical;
 
 class Scales
 {
@@ -12,11 +12,11 @@ class Scales
      * @var array 
      */
     protected $arrScales = [
-        'majorScale' => [2, 2, 1, 2, 2, 2],
-        'minorScale' => [2, 1, 2, 2, 2, 1],
-        'pentatonicScale' => [2, 2, 3, 2],
-        'minorBlues' => [3, 2, 1, 1, 3],
-        'majorBlues' => [2, 1, 1, 3, 2]
+        'Escala maior' => [2, 2, 1, 2, 2, 2],
+        'Escala menor' => [2, 1, 2, 2, 2, 1],
+        'Escala pentatônica' => [2, 2, 3, 2],
+        'Escala blues menor' => [3, 2, 1, 1, 3],
+        'Escala blues maior' => [2, 1, 1, 3, 2]
     ];
 
     public function __construct($note)
